@@ -25,9 +25,13 @@
 ## 0, プロジェクト作成
 
 > 0-1. Xcodeを起動。
+>
 > 0-2. "Create a new Xcode project"を選択。
+>
 > 0-3. "Single View Application"を選択して"Next"をクリック。
+>
 > 0-4. "Product name"を適当に入力して"Next"をクリック。
+>
 > 0-5. プロジェクトの場所を指定して"Create"をクリック。
 
 ## 1, 画像素材を追加する
