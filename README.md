@@ -41,9 +41,7 @@
 <summary>詳細画像をみる</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-jp/blob/master/samples/0.gif" /></div>
 </details>
-・<a href="https://www.flaticon.com/free-icon/filled-circle_60765#term=circle&page=2&position=32">Particle</a>
-
-・<a href="https://www.flaticon.com/free-icon/firework_439597#term=firework&page=2&position=32">Fireworks</a> (Optional)
+・[画像ファイルをダウンロード](https://github.com/iosClassForBeginner/fireworks-jp/raw/master/images/Images.zip)
 
 ## 2, アプリをデザインする。
 #### 🗂 Main.storyboard
