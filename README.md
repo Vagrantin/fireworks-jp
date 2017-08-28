@@ -41,7 +41,7 @@
 <summary>詳細画像をみる</summary>
 <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/fireworks-jp/blob/master/samples/0.gif" /></div>
 </details>
-・[画像ファイルをダウンロード](https://github.com/iosClassForBeginner/fireworks-jp/raw/master/images/Images.zip)
+[画像ファイルをダウンロード](https://github.com/iosClassForBeginner/fireworks-jp/raw/master/images/Images.zip)
 
 ## 2, アプリをデザインする。
 #### 🗂 Main.storyboard
